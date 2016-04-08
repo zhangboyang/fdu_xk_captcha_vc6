@@ -1,3 +1,7 @@
+==========================================================
+***** 注意这个程序只适用于旧版选课系统(现在已经下线) *****
+==========================================================
+
 THIS IS A FORK OF FDU_XK_CAPTCHA
 ORIGINAL PROJECT: https://github.com/zhangboyang/fdu_xk_captcha
 
